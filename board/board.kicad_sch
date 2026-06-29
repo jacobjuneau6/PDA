@@ -6042,6 +6042,17 @@
 				)
 			)
 		)
+		(property "DigiKey_Part_Number" "5407-ESP32-S3-WROOM-1-N16R8CT-ND "
+			(at 44.45 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "42"
 			(uuid "c26958c0-7c58-4c76-9ba7-81da569ef2fd")
 		)
@@ -6265,6 +6276,17 @@
 				)
 			)
 		)
+		(property "DigiKey_Part_Number" "  SW401-ND"
+			(at 222.25 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "f6986737-6909-4b98-a5cc-10eded0af107")
 		)
@@ -6351,7 +6373,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "TI(德州仪器)"
+		(property "MANUFACTURER" "TI(德州仪器)"
 			(at 82.55 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -6375,6 +6397,17 @@
 		)
 		(property "LCSC Part" "C2860924"
 			(at 82.55 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DigiKey_Part_Number" "296-TPS74533PCQWDRVRQ1CT-ND "
+			(at 82.55 152.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6471,6 +6504,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 129.54 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DigiKey_Part_Number" "568-16347CT-ND"
 			(at 129.54 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -6744,6 +6788,17 @@
 				)
 			)
 		)
+		(property "DigiKey_Part_Number" "  SW401-ND"
+			(at 222.25 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "1a861bf2-a0aa-4132-8ec5-86eaa59eb837")
 		)
@@ -6771,7 +6826,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -7086,6 +7141,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 142.24 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DigiKey_Part_Number" "  SW401-ND"
 			(at 142.24 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -7415,6 +7481,17 @@
 				)
 			)
 		)
+		(property "DigiKey_Part_Number" "785-1000-1-ND"
+			(at 129.54 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4ff0cb07-0fbf-4d0c-a54b-3b3519f4741f")
 		)
@@ -7439,7 +7516,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -7738,6 +7815,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 222.25 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "DigiKey_Part_Number" "  SW401-ND"
 			(at 222.25 113.03 0)
 			(hide yes)
 			(show_name no)
