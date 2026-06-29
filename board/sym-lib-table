@@ -1,0 +1,13 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "MAX17048G_T10") (type "KiCad") (uri "${KIPRJMOD}/staging/MAX17048G_T10/MAX17048G_T10.kicad_sym") (options "") (descr ""))
+	(lib (name "MCP73831T-2DCI_MC") (type "KiCad") (uri "${KIPRJMOD}/staging/MCP73831T-2DCI_MC/MCP73831T-2DCI_MC.kicad_sym") (options "") (descr ""))
+	(lib (name "2026-06-29_05-14-52") (type "KiCad") (uri "${KIPRJMOD}/staging/ul_ESP32-S3-WROOM-1-N16R8/KiCADv6/2026-06-29_05-14-52.kicad_sym") (options "") (descr ""))
+	(lib (name "2026-06-29_05-15-55") (type "KiCad") (uri "${KIPRJMOD}/staging/ul_COM-16347/KiCADv6/2026-06-29_05-15-55.kicad_sym") (options "") (descr ""))
+	(lib (name "2026-06-29_05-16-19") (type "KiCad") (uri "${KIPRJMOD}/staging/ul_AO3400A/KiCADv6/2026-06-29_05-16-19.kicad_sym") (options "") (descr ""))
+	(lib (name "easyeda2kicad") (type "KiCad") (uri "/home/jacob/Documents/Kicad/easyeda2kicad/easyeda2kicad.kicad_sym") (options "") (descr ""))
+	(lib (name "RAHMB20AUETR") (type "KiCad") (uri "${KIPRJMOD}/staging/RAHMB20AUETR/RAHMB20AUETR.kicad_sym") (options "") (descr ""))
+	(lib (name "LCD") (type "KiCad") (uri "${KIPRJMOD}/staging/LCD.kicad_sym") (options "") (descr ""))
+	(lib (name "2026-06-29_05-40-47") (type "KiCad") (uri "${KIPRJMOD}/staging/ul_B3F-1002/KiCADv6/2026-06-29_05-40-47.kicad_sym") (options "") (descr ""))
+	(lib (name "RC1206FR-132KL") (type "KiCad") (uri "${KIPRJMOD}/staging/RC1206FR-132KL/RC1206FR-132KL.kicad_sym") (options "") (descr ""))
+)
