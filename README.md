@@ -37,17 +37,22 @@ A simple ESP32-S3 based phone companion and pocket computer. This open-source ha
 
 ## Bill of Materials
 
-| Reference | Qty | Part | DigiKey P/N | Description |
-|-----------|-----|------|-------------|-------------|
-| J1 | 1 | RAHMB20AUETR | 137-RAHMB20AUETRCT-ND | USB micro-B receptacle, right-angle, SMT (Switchcraft) |
-| LED1 | 1 | COM-16347 | 568-16347CT-ND | WS2812/NeoPixel RGB LED |
-| R1, R2 | 2 | RC1206FR-132KL | 13-RC1206FR-132KLCT-ND | 2 kΩ 1206 thick-film resistor (Yageo) |
-| SW1, SW2, SW3, SW4 | 4 | B3F-1002 | SW401-ND | Tactile switch (Omron) |
-| U1 | 1 | ESP32-S3-WROOM-1-N16R8 | 5407-ESP32-S3-WROOM-1-N16R8CT-ND | ESP32-S3 module, 16 MB flash, 8 MB PSRAM |
-| U2 | 1 | MCP73831T-2DCI/MC | MCP73831T-2DCI/MCCT-ND | Li-Ion/Li-Po battery charger IC (Microchip) |
-| U3 | 1 | TPS74533PCQWDRVRQ1 | 296-TPS74533PCQWDRVRQ1CT-ND | 3.3 V LDO voltage regulator, 500 mA (TI) |
-| U4 | 1 | MAX17048G+T10 | MAX17048G+T10CT-ND | LiPo fuel gauge IC (Maxim Integrated) |
-| U5 | 1 | AO3400A | 785-1000-1-ND | N-channel MOSFET, SOT-23 (battery protection) |
+| Reference            | Qty | Part                    | DigiKey P/N              | Description                                                | Price  |
+|---------------------|-----|-------------------------|--------------------------|------------------------------------------------------------|--------|
+| J1                  | 1   | RAHMB20AUETR            | 137-RAHMB20AUETRCT-ND    | USB micro-B receptacle, right-angle, SMT (Switchcraft)     |        |
+| LED1                | 1   | COM-16347               | 568-16347CT-ND           | WS2812/NeoPixel RGB LED                                    |        |
+| R1, R2              | 2   | RC1206FR-132KL          | 13-RC1206FR-132KLCT-ND   | 2 kΩ 1206 thick-film resistor (Yageo)                      |        |
+| SW1, SW2, SW3, SW4  | 4   | B3F-1002                | SW401-ND                 | Tactile switch (Omron)                                      |        |
+| U1                  | 1   | ESP32-S3-WROOM-1-N16R8  | 5407-ESP32-S3-WROOM-1-N16R8CT-ND | ESP32-S3 module, 16 MB flash, 8 MB PSRAM        |        |
+| U2                  | 1   | MCP73831T-2DCI/MC       | MCP73831T-2DCI/MCCT-ND   | Li-Ion/Li-Po battery charger IC (Microchip)               |        |
+| U3                  | 1   | TPS74533PCQWDRVRQ1      | 296-TPS74533PCQWDRVRQ1CT-ND | 3.3 V LDO voltage regulator, 500 mA (TI)              |        |
+| U4                  | 1   | MAX17048G+T10           | MAX17048G+T10CT-ND       | LiPo fuel gauge IC (Maxim Integrated)                      |        |
+| U5                  | 1   | AO3400A                 | 785-1000-1-ND            | N-channel MOSFET, SOT-23 (battery protection)              |        |
+| —                   | 1   | Custom PCB & stencil     | JLCPCB                   | Fabrication                                                | $20.00 |
+| —                   | 1   | DigiKey components      |                          | Components & shipping                                      | $30.00 |
+| —                   | 1   | 1Ah battery             |                          | https://www.amazon.com/dp/B0DPZVBKMY?th=1                  | $8.00  |
+| —                   | 1   | Display                 |                          | https://www.amazon.com/gp/product/B0DFWLD38D/ref=ox_sc_act_title_2?smid=A2UYBS1CH53PM5 | $16.00 |
+
 
 ## Power Architecture
 
