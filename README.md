@@ -162,6 +162,7 @@ All are fetched automatically by PlatformIO via `lib_deps`.
 - **Layers:** 2-layer board
 - **Software:** KiCad 8
 - **Gerber files:** Ready for fabrication in [`board/gbrs/`](board/gbrs/)
+- **View online:** [Kicanvas](https://kicanvas.org/?github=https://github.com/jacobjuneau6/PDA/blob/main/board/board.kicad_pcb) — interactive board viewer (no KiCad install needed)
 
 The PCB uses all surface-mount components. Most ICs are in small-outline packages (SOT-23, TDFN, WSON). The display connects via a standard 1×08 2.54 mm pitch pin header.
 
